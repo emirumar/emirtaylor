@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 IT Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/emirtaylor/ActiveDirectoryLab))
+  - [Active Directory Home Lab](https://github.com/emirtaylor/ActiveDirectoryLab)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
