@@ -9,7 +9,12 @@
   - [VM Fleet Commander (Deploy and Manage Azure Compute Resources)](https://github.com/emirtaylor/Azure-AD/blob/main/vmfleetcommander.md)
   - [NetMaze Explorer (Implement and Manage Virtual Networking)](https://github.com/emirtaylor/Azure-AD/blob/main/netmazeexplorer.md)
   - [InsightScape (Monitor and Backup Azure Resources)](https://github.com/emirtaylor/Azure-AD/blob/main/insightscape.md)
-    
+
+- <b>Cybersecurity</b>
+  - [Setup a SIEM in Azure (Sentinel)](https://github.com/emirtaylor/ActiveDirectoryLab)
+  - [Create a File Integrity Monitor](https://github.com/emirtaylor/Azure-AD/blob/main/onboarder.md)
+  - [Setup A Vulnerability Management Lab](https://github.com/emirtaylor/Azure-AD/blob/main/sharesafely.md)
+  - [Build a Simple REST API](https://github.com/emirtaylor/Azure-AD/blob/main/vmfleetcommander.md)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
