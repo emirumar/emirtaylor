@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 IT Projects:</h2>
 
-- <b>Azure Active Directory</b>
+- <b>Azure</b>
   - [Active Directory Home Lab](https://github.com/emirtaylor/ActiveDirectoryLab)
   - [Onboard Automator (Manage Azure Indentities and Governance)](https://github.com/emirtaylor/Azure-AD/blob/main/onboarder.md)
   - [ShareSafely - File Share Web App (Implement and Manage Storage)](https://github.com/emirtaylor/Azure-AD/blob/main/sharesafely.md)
@@ -39,15 +39,16 @@
 
 - <b>Microsoft</b>
   - [Microsoft Azure Administrator](https://github.com/emirtaylor/Sentinel-Lab)
-  - [Microsoft Database Administrator](https://github.com/emirtaylor/Sentinel-Lab)
 
 - <b>Google</b>
-  - [Google Cloud Professional Associate](https://github.com/emirtaylor/Sentinel-Lab)
-  - [Google Cloud Fundamentals](https://github.com/emirtaylor/Sentinel-Lab)
+  - [Google Cybersecurity Professional Associate](https://github.com/emirtaylor/Sentinel-Lab)
 
 - <b>Other</b>
   - [Certified ServiceNow Administrator](https://github.com/emirtaylor/Sentinel-Lab)
-  - [Splunk Core Power User](https://github.com/emirtaylor/Sentinel-Lab)
+  - [Splunk Core Certified Power User](https://github.com/emirtaylor/Sentinel-Lab)
+  - [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/emirtaylor/Sentinel-Lab)
+  - [ISC2 Certified in Cybersecurity](https://github.com/emirtaylor/Sentinel-Lab)
+  - [Okta Certified Professional](https://github.com/emirtaylor/Sentinel-Lab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
