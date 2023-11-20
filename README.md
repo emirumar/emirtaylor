@@ -1,5 +1,8 @@
 <h1>Hi, I'm Emir! <br/><a href="https://github.com/emirtaylor">Admin</a>, <a href="https://www.linkedin.com/in/emirtaylor/">IT Professional</a>, <a href="https://www.youtube.com/c/emirtaylor">YouTuber</a></h1>
 
+<h2>👨🏾‍💻 IT Professional Resume</h2>
+  - [As of 12.23](https://github.com/emirtaylor/ActiveDirectoryLab)
+  
 <h2>👨🏾‍💻 IT Projects:</h2>
 
 - <b>Azure</b>
