@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="https://emirumar.com">Emir!</a>,
-<a href="https://www.linkedin.com/in/emirtaylor/">Cloud Engineer</a>, and <a href="https://www.youtube.com/c/emirtaylor">Entrepreneur</a></h1>
+<a href="https://www.linkedin.com/in/emirumar/">Cloud Engineer</a>, and <a href="https://www.youtube.com/c/emirumar">Entrepreneur</a></h1>
 
 <h2>🎓 IT Professional Resume</h2>
   - [As of 04.24](https://1drv.ms/w/c/3f23217c97d28889/EY0KXg8DeANNrB19UGGNR-UBGGijlmIJ_YKlXfg2ZLtwPw?e=gbtPil)
