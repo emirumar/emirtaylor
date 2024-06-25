@@ -1,8 +1,8 @@
 <h1>Hi, I'm <a href="https://emirumar.com">Emir!</a>,
-<a href="https://www.linkedin.com/in/emirumar/">Cloud Engineer</a>, and <a href="https://www.youtube.com/c/emirumar">Entrepreneur</a></h1>
+<a href="https://www.linkedin.com/in/emirumar/">System Administrator</a>, and <a href="https://www.youtube.com/c/emirumar">Entrepreneur</a></h1>
 
 <h2>🎓 IT Professional Resume</h2>
-  - [As of 04.24](https://1drv.ms/b/c/3f23217c97d28889/EatRq3UVndFKpgErpsbKGP0BuMcxZ8O187_SbW18k4BfQw?e=3TVtVD)
+  - [As of 07.24](https://1drv.ms/b/c/3f23217c97d28889/EatRq3UVndFKpgErpsbKGP0BuMcxZ8O187_SbW18k4BfQw?e=3TVtVD)
   
 <h2>👨🏾‍💻 Upcoming IT Projects:</h2>
 
@@ -30,5 +30,5 @@
 [twitter]: https://twitter.com/emirumar7  
 [youtube]: https://www.youtube.com/c/emirumar
 [instagram]: https://www.instagram.com/emirumar7/
-[linkedin]: https://linkedin.com/in/emirumar
+[linkedin]: https://linkedin.com/in/emirtaylor
 
